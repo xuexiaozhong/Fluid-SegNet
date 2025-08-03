@@ -1,5 +1,6 @@
 # Fluid-SegNet
 This repository contains the official implementation of Fluid-SegNet: Multi-Dimensional Loss-Driven Y-Net with Dilated Convolutions for OCT B-scan Fluid Segmentation. https://www.sciencedirect.com/science/article/abs/pii/S0895611125001223
+
 We propose Fluid-SegNet, a deep learning model specifically designed to segment fluid regions from OCT B-scan images. Our approach addresses several key challenges in fluid segmentation, including:
 
 Difficulty in capturing fine-grained fluid structures,
