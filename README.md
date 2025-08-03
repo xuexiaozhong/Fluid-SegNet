@@ -21,7 +21,7 @@ Step 1:
 Please download the datasets (UMN, OIMHS, and AROI)
 
 Step 2:
-For UMN dataset, you need run ROI_detection_by_Unet to get the ROI Images firstly.
+For UMN dataset, you need run ROI_detection_by_Unet.py to get the ROI Images firstly.
 For AROI dataset, we do not do any preprocessing.
 For OIMHS dataset, we extracted ROI by GT directly.
 
